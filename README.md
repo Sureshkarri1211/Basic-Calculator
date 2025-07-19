@@ -1,1 +1,1 @@
-# Basic-Calculator
+# Rock-Paper-Scissors
